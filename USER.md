@@ -3,8 +3,8 @@
 - **Name:** Halil
 - **What to call them:** Halil
 - **Pronouns:**
-- **Timezone:**
-- **Notes:**
+- **Timezone:** Europe/Vienna (but currently in Turkey on vacation)
+- **Notes:** On vacation in Turkey (from Friday March 27th onward). Work schedule paused. App progress expectations adjusted accordingly. Ramadan is over.
 
 ## Context
 
