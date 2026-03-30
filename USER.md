@@ -3,8 +3,8 @@
 - **Name:** Halil
 - **What to call them:** Halil
 - **Pronouns:**
-- **Timezone:**
-- **Notes:**
+- **Timezone:** Europe/Vienna
+- **Notes:** Returned from Turkey vacation. Back to normal work schedule. Ramadan is over.
 
 ## Context
 
